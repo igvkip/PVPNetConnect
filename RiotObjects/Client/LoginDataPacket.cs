@@ -1,14 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using PVPNetConnect.RiotObjects.Summoner;
-using PVPNetConnect.RiotObjects.Statistics;
-using PVPNetConnect.RiotObjects.Game;
-
-namespace PVPNetConnect.RiotObjects.Client
+﻿namespace PvpLib.RiotObjects.Client
 {
+    using System.Collections.Generic;
+
+    using Game;
+
+    using Statistics;
+
+    using Summoner;
+
     /// <summary>
     /// Class that defines the login data packet.
     /// </summary>

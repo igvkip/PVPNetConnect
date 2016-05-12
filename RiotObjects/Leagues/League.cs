@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace PVPNetConnect.RiotObjects.Leagues
+﻿namespace PvpLib.RiotObjects.Leagues
 {
+    using System.Collections.Generic;
+
     /// <summary>
     /// Class with specific information about a league.
     /// </summary>

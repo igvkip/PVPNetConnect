@@ -9,14 +9,12 @@
 //
 /////////////////////////////////////////////////////////////////////////////////
 
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-
-namespace PVPNetConnect
+namespace PvpLib
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+
     /// <summary>
     /// The RTMPSEncoder class that encodes RTMPS packets
     /// </summary>

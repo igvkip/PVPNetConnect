@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace PVPNetConnect.RiotObjects.Summoner
+﻿namespace PvpLib.RiotObjects.Summoner
 {
+    using System;
+
     /// <summary>
     /// The class that defines summoner talent and points information.
     /// </summary>

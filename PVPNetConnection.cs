@@ -9,28 +9,30 @@
 //
 /*/////////////////////////////////////////////////////////////////////////////////
 
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Net;
-using System.Net.Security;
-using System.Net.Sockets;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading;
-using System.Web.Script.Serialization;
-
-using PVPNetConnect.Assets;
-using PVPNetConnect.RiotObjects;
-using PVPNetConnect.RiotObjects.Summoner;
-using PVPNetConnect.RiotObjects.Leagues;
-using PVPNetConnect.RiotObjects.Statistics;
-using PVPNetConnect.RiotObjects.Client;
-using PVPNetConnect.RiotObjects.Game;
-
-namespace PVPNetConnect
+namespace PvpLib
 {
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Net;
+    using System.Net.Security;
+    using System.Net.Sockets;
+    using System.Security.Cryptography.X509Certificates;
+    using System.Text;
+    using System.Threading;
+    using System.Web.Script.Serialization;
+
+    using Assets;
+
+    using RiotObjects;
+    using RiotObjects.Client;
+    using RiotObjects.Game;
+    using RiotObjects.Leagues;
+    using RiotObjects.Statistics;
+    using RiotObjects.Summoner;
+    using RiotObjects.Summoner.Masterybook;
+    using RiotObjects.Summoner.Spellbook;
+
     /// <summary>
     /// PVPNetConnection class, main class used to connect to Riot Servers and perform calls and receive data.
     /// </summary>

@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace PVPNetConnect.RiotObjects.Statistics
+﻿namespace PvpLib.RiotObjects.Statistics
 {
+    using System;
+    using System.Collections.Generic;
+
     /// <summary>
     /// Class that defines all the aggregated stats.
     /// </summary>

@@ -9,14 +9,13 @@
 //
 /////////////////////////////////////////////////////////////////////////////////
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.IO;
-using System.Web.Script.Serialization;
-namespace PVPNetConnect
+namespace PvpLib
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+    using System.Web.Script.Serialization;
+
     /// <summary>
     /// RTMPS decoder class that decodes RTMPS messages
     /// </summary>

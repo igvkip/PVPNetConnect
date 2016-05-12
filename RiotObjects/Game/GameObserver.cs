@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace PVPNetConnect.RiotObjects.Game
+﻿namespace PvpLib.RiotObjects.Game
 {
     /// <summary>
     /// Class which defines a GameObserver and its information.

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace PVPNetConnect.RiotObjects.Catalog
+﻿namespace PvpLib.RiotObjects.Catalog
 {
     /// <summary>
     /// Class that defines a specific rune slot and its infromation.

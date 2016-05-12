@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace PVPNetConnect.RiotObjects.Summoner
+﻿namespace PvpLib.RiotObjects.Summoner
 {
     /// <summary>
     /// Class to handle riot return of summonerName array.

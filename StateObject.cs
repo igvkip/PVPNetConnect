@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
-
-namespace PVPNetConnect
+﻿namespace PvpLib
 {
+    using System.Threading;
+
     internal sealed class StateObject
     {
         private readonly ManualResetEvent _done = new ManualResetEvent(false);

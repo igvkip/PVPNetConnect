@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace PVPNetConnect.RiotObjects.Game
+﻿namespace PvpLib.RiotObjects.Game
 {
     /// <summary>
     /// Class that defines a player participant and its infromation.

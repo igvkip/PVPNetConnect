@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Net.Security;
-
-namespace PVPNetConnect
+﻿namespace PvpLib
 {
+    using System;
+    using System.Net.Security;
+
     internal sealed class SafeSslStream
     {
         private readonly object _streamLock = new object();

@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using PVPNetConnect.RiotObjects;
-
-namespace PVPNetConnect.Assets
+﻿namespace PvpLib.Assets
 {
+    using RiotObjects;
+
     /// <summary>
     /// The CallbackData class, with information for a callback.
     /// </summary>

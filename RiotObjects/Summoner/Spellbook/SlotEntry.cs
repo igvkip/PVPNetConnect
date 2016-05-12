@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using PVPNetConnect.RiotObjects.Catalog;
-
-namespace PVPNetConnect.RiotObjects.Summoner
+﻿namespace PvpLib.RiotObjects.Summoner.Spellbook
 {
+    using Catalog;
+
     /// <summary>
     /// The class that defines a slot entry.
     /// </summary>

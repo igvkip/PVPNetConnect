@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace PVPNetConnect.RiotObjects.Summoner
+﻿namespace PvpLib.RiotObjects.Summoner
 {
     /// <summary>
     /// THe class that defines summoner level and points information.

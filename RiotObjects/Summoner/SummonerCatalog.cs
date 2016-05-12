@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using PVPNetConnect.RiotObjects.Catalog;
-
-namespace PVPNetConnect.RiotObjects.Summoner
+﻿namespace PvpLib.RiotObjects.Summoner
 {
+    using System.Collections.Generic;
+
+    using Catalog;
+
     /// <summary>
     /// The class that defines summoner catalog.
     /// </summary>

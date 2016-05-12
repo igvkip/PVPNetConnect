@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace PVPNetConnect.RiotObjects.Statistics
+﻿namespace PvpLib.RiotObjects.Statistics
 {
+    using System;
+
     /// <summary>
     /// The class that defines player stat summary.
     /// </summary>

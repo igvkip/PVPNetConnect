@@ -9,13 +9,12 @@
 //
 /////////////////////////////////////////////////////////////////////////////////
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace PVPNetConnect
+namespace PvpLib
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+
     /// <summary>
     /// The class that defines a TypedObject and packet object
     /// </summary>
